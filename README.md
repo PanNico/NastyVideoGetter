@@ -1,5 +1,5 @@
 # NastyVideoGetter
-Retrives a video from a website and merges the parts
+Retrives a video from a website and merges the parts.<br/>
 Sometimes watching a video in streaming could be a pain in the ass, as my boss is used to say; the reason could be our connection indeed but 
 most of the time the websites that offer these kind of services are very bad written, full of ads and download more than they should. 
 This is the real reason why most of the time watching a video is such a pain (not every time I know and actually I don't care if you don't agree; for me it works).
